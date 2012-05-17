@@ -7,7 +7,7 @@ with styles.sh you can:
 
 1. develop your styles into your html script using:
 
-a.<a href="#" style="display:block;">mylink</a>;
+a.< a href="#" style="display:block;">mylink</a>;
 
 b. <style> body{ background: blue; } </style>;
 
