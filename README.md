@@ -15,3 +15,4 @@ c. set separated files to compile to <style to="/folder/mycss.css"> body{ backgr
 
 
 - organize alphabetically the styles
+- fix images url path depending where create the generated css file
