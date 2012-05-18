@@ -12,3 +12,6 @@ a.< a href="#" style="display:block;">mylink</a>;
 b. <style> body{ background: blue; } </style>;
 
 c. set separated files to compile to <style to="/folder/mycss.css"> body{ background: blue; }</style>
+
+
+- organize alphabetically the styles
